@@ -1,0 +1,45 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Data and model files (often too large for Git)
+data/
+models/
+*.csv
+*.json
+*.pkl
+*.h5
+*.pt
+*.pth
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
